@@ -35,7 +35,7 @@ Tu l'auras compris, le lien donné pour le téléchargement est la version "simp
 
 ### Prise en main via le cours
 
-Pour prendre en main l'outil je t'invite à te référer <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/00-Lectures/01-Data_Visualisation_with_Tableau.ipynb">au cours associé</a>
+Pour prendre en main l'outil je t'invite à te référer <a href="https://github.com/JedhaBootcamp/ESSENTIALS_PROGRAM/blob/master/M01-Data_visualisation/D01-Data_visualisation/00-Lectures/01-Data_Visualisation_with_Tableau.ipynb">au cours associé</a>.
 
 
 ## Google Cloud Platform
